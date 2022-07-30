@@ -2,6 +2,10 @@
   Hi 👋, I'm Mohammad Tavakoli<br><br>
 </h1>
 
+<h2>
+  👨‍💻 About Me<br><br>
+</h2>
+
 - 🎓 Studying B.Sc. Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/)
 - 📚 Interested in Artificial intelligence and Software Engineering 
 - 📫 You can reach me by:<br><br>
@@ -13,9 +17,17 @@
   🔨 Languages and Tools<br><br>
 </h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,androidstudio,python,js,ts,php,react,nextjs,nodejs,django,flask,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres,mysql,mongodb,docker,linux,latex,git" />
+  </a>
+</p>
+
 <h2>
-  🔨 My status<br><br>
+  📈 My status<br><br>
 </h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohammadtavakoli78&theme=radical)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadtavakoli78&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadtavakoli78&show_icons=true&layout=compact&theme=radical)
