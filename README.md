@@ -2,9 +2,7 @@
   Hi 👋, I'm Mohammad Tavakoli<br><br>
 </h1>
 
-<h2>
-  👨‍💻 About Me<br><br>
-</h2>
+👨‍💻 About Me<br><br>
 
 - 🎓 Studying B.Sc. Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/)
 - 📚 Interested in Artificial intelligence and Software Engineering 
