@@ -4,15 +4,12 @@
 
 👨‍💻 About Me<br>
 
-- 🎓 Studying B.Sc. Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/)
-- 📚 Interested in Artificial intelligence and Software Engineering 
-- 💻 [My Personal Website](https://mohammadtavakoli78.github.io/)
+- 🎓 Studying M.Sc. at University of Alberta.
 - 📫 You can reach me by:<br><br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-tavakoli-32649b21a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohammad-tavakoli-32649b21a/](https://www.linkedin.com/in/mohamadtavakoli/))
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamad.tavakoli7878@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/Mohammad_ta78)
 
-<h2>
+<!-- <h2>
   🔨 Languages and Tools<br><br>
 </h2>
 
@@ -21,7 +18,7 @@
     <img src="https://skillicons.dev/icons?i=c,java,androidstudio,python,js,ts,php,react,nextjs,nodejs,django,flask,arduino" /><br>
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres,mysql,mongodb,docker,linux,latex,git" />
   </a>
-</p>
+</p> -->
 
 <h2>
   📈 My status<br><br>
