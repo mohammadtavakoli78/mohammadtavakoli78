@@ -6,7 +6,7 @@
 
 - 🎓 Studying M.Sc. at University of Alberta.
 - 📫 You can reach me by:<br><br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohammad-tavakoli-32649b21a/](https://www.linkedin.com/in/mohamadtavakoli/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mohamadtavakoli/])
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamad.tavakoli7878@gmail.com)
 
 <!-- <h2>
